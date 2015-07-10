@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<worldsbest>
+		 
+		
+		<c id="0" incGroup="Low" key="al" name="Albania" popGroup="Small" region="Southern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="81" ed="50" he="52" li="53" ov="57" po="56"/>
+			<ur ec="81" ed="50" he="60" li="53" ov="57" po="56"/>
+			<s ec="34.0862" ed="81.0164" he="71.0244" li="67.924" ov="62.545" po="58.6742"/>
+		</c>
+		 
+		
+		<c id="1" incGroup="Middle" key="dz" name="Algeria" popGroup="Medium" region="North Africa">
+			<groups>
+				<g key="popM"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="96" ed="68" he="66" li="71" ov="85" po="94"/>
+			<ur ec="96" ed="68" he="72" li="71" ov="85" po="94"/>
+			<s ec="25.8057" ed="74.8027" he="66.1951" li="60.9347" ov="52.0687" po="32.6054"/>
+		</c>
+		 
+		
+		<c id="2" incGroup="Middle" key="ar" name="Argentina" popGroup="Medium" region="South America">
+			<groups>
+				<g key="popM"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="latin"/>
+				<g key="g20"/>
+			</groups>
+			<r ec="75" ed="80" he="34" li="52" ov="46" po="42"/>
+			<ur ec="75" ed="80" he="41" li="52" ov="46" po="42"/>
+			<s ec="37.4511" ed="69.8825" he="78.2683" li="68.1559" ov="64.4845" po="68.6647"/>
+		</c>
+		 
+		
+		<c id="3" incGroup="High" key="au" name="Australia" popGroup="Medium" region="Australia">
+			<groups>
+				<g key="popM"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="g20"/>
+				<g key="pacasia"/>
+			</groups>
+			<r ec="6" ed="13" he="3" li="6" ov="4" po="9"/>
+			<ur ec="6" ed="13" he="6" li="6" ov="4" po="9"/>
+			<s ec="71.4888" ed="91.4802" he="95.1707" li="90.5729" ov="87.9351" po="90.9629"/>
+		</c>
+		 
+		
+		<c id="4" incGroup="High" key="at" name="Austria" popGroup="Small" region="Central Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="29" ed="22" he="17" li="12" ov="18" po="8"/>
+			<ur ec="29" ed="22" he="22" li="12" ov="18" po="8"/>
+			<s ec="53.9431" ed="90.4578" he="90.3415" li="87.563" ov="82.7025" po="91.2073"/>
+		</c>
+		 
+		
+		<c id="5" incGroup="Low" key="az" name="Azerbaijan" popGroup="Small" region="central Asia">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="31" ed="83" he="80" li="49" ov="69" po="86"/>
+			<ur ec="31" ed="83" he="80" li="49" ov="69" po="86"/>
+			<s ec="53.6457" ed="68.988" he="58.9512" li="68.9572" ov="58.1162" po="40.039"/>
+		</c>
+		 
+		
+		<c id="6" incGroup="Low" key="bd" name="Bangladesh" popGroup="Large" region="South Asia">
+			<groups>
+				<g key="popL"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="sasia"/>
+			</groups>
+			<r ec="88" ed="95" he="82" li="86" ov="88" po="76"/>
+			<ur ec="88" ed="95" he="84" li="86" ov="88" po="76"/>
+			<s ec="31.058" ed="58.6306" he="51.7073" li="48.5346" ov="47.3987" po="47.0631"/>
+		</c>
+		 
+		
+		<c id="7" incGroup="Middle" key="by" name="Belarus" popGroup="Small" region="Eastern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="34" ed="35" he="66" li="35" ov="56" po="91"/>
+			<ur ec="34" ed="35" he="66" li="35" ov="56" po="91"/>
+			<s ec="51.915" ed="86.6155" he="66.1951" li="74.1467" ov="62.5845" po="34.0501"/>
+		</c>
+		 
+		
+		<c id="8" incGroup="High" key="be" name="Belgium" popGroup="Small" region="Northern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="20" ed="11" he="17" li="17" ov="19" po="15"/>
+			<ur ec="20" ed="11" he="21" li="17" ov="19" po="15"/>
+			<s ec="60.4988" ed="92.0681" he="90.3415" li="85.3846" ov="82.6786" po="85.0999"/>
+		</c>
+		 
+		
+		<c id="9" incGroup="Low" key="bo" name="Bolivia" popGroup="Small" region="South America">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="94" ed="45" he="81" li="77" ov="77" po="57"/>
+			<ur ec="94" ed="45" he="81" li="77" ov="77" po="57"/>
+			<s ec="26.9803" ed="81.601" he="56.5366" li="57.0621" ov="55.856" po="57.1"/>
+		</c>
+		 
+		
+		<c id="10" incGroup="Middle" key="bw" name="Botswana" popGroup="Small" region="Africa">
+			<groups>
+				<g key="popS"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="africa"/>
+			</groups>
+			<r ec="55" ed="74" he="91" li="83" ov="80" po="41"/>
+			<ur ec="55" ed="76" he="91" li="83" ov="80" po="41"/>
+			<s ec="43.6952" ed="73.4608" he="34.8049" li="50.0875" ov="54.9464" po="72.6833"/>
+		</c>
+		 
+		
+		<c id="11" incGroup="Middle" key="br" name="Brazil" popGroup="Large" region="South America">
+			<groups>
+				<g key="popL"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="bric"/>
+				<g key="latin"/>
+				<g key="g20"/>
+			</groups>
+			<r ec="46" ed="78" he="52" li="68" ov="48" po="43"/>
+			<ur ec="46" ed="78" he="59" li="68" ov="48" po="43"/>
+			<s ec="47.8506" ed="71.3735" he="71.0244" li="62.4238" ov="64.0171" po="67.4131"/>
+		</c>
+		 
+		
+		<c id="12" incGroup="Middle" key="bg" name="Bulgaria" popGroup="Small" region="Southern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="54" ed="42" he="42" li="37" ov="38" po="38"/>
+			<ur ec="54" ed="42" he="49" li="37" ov="38" po="39"/>
+			<s ec="43.7178" ed="82.2277" he="75.8537" li="73.1197" ov="69.6175" po="73.1686"/>
+		</c>
+		 
+		
+		<c id="13" incGroup="Low" key="bf" name="Burkina Faso" popGroup="Small" region="Africa">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="africa"/>
+			</groups>
+			<r ec="86" ed="100" he="96" li="100" ov="100" po="79"/>
+			<ur ec="86" ed="100" he="96" li="100" ov="100" po="79"/>
+			<s ec="32.7894" ed="44.5024" he="20.3171" li="26.329" ov="33.5935" po="44.0296"/>
+		</c>
+		 
+		
+		<c id="14" incGroup="Low" key="cm" name="Cameroon" popGroup="Small" region="Africa">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="africa"/>
+			</groups>
+			<r ec="95" ed="90" he="94" li="92" ov="98" po="92"/>
+			<ur ec="95" ed="90" he="95" li="92" ov="98" po="92"/>
+			<s ec="26.4328" ed="66.0308" he="25.1463" li="42.3787" ov="38.6251" po="33.1371"/>
+		</c>
+		 
+		
+		<c id="15" incGroup="High" key="ca" name="Canada" popGroup="Medium" region="North America">
+			<groups>
+				<g key="popM"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="g7"/>
+				<g key="g20"/>
+			</groups>
+			<r ec="11" ed="2" he="7" li="10" ov="7" po="10"/>
+			<ur ec="11" ed="3" he="16" li="10" ov="7" po="10"/>
+			<s ec="68.46" ed="96.7199" he="92.7561" li="88.0163" ov="87.2853" po="90.474"/>
+		</c>
+		 
+		
+		<c id="16" incGroup="Middle" key="cl" name="Chile" popGroup="Small" region="South America">
+			<groups>
+				<g key="popS"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="24" ed="51" he="26" li="47" ov="30" po="30"/>
+			<ur ec="24" ed="51" he="28" li="47" ov="30" po="30"/>
+			<s ec="58.0767" ed="80.6175" he="85.5122" li="69.4734" ov="74.116" po="76.9"/>
+		</c>
+		 
+		
+		<c id="17" incGroup="Low" key="cn" name="China" popGroup="Large" region="Asia">
+			<groups>
+				<g key="popL"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="bric"/>
+				<g key="g20"/>
+				<g key="pacasia"/>
+			</groups>
+			<r ec="13" ed="61" he="42" li="70" ov="59" po="93"/>
+			<ur ec="13" ed="61" he="48" li="70" ov="59" po="93"/>
+			<s ec="62.6262" ed="78.0662" he="75.8537" li="61.0023" ov="62.1034" po="32.9684"/>
+		</c>
+		 
+		
+		<c id="18" incGroup="Middle" key="co" name="Colombia" popGroup="Medium" region="South America">
+			<groups>
+				<g key="popM"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="63" ed="67" he="42" li="81" ov="62" po="60"/>
+			<ur ec="63" ed="67" he="47" li="81" ov="62" po="60"/>
+			<s ec="41.1648" ed="75.4289" he="75.8537" li="53.5549" ov="60.5227" po="56.6111"/>
+		</c>
+		 
+		
+		<c id="19" incGroup="Middle" key="cr" name="Costa Rica" popGroup="Small" region="Central America">
+			<groups>
+				<g key="popS"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="70" ed="54" he="29" li="44" ov="35" po="28"/>
+			<ur ec="70" ed="54" he="31" li="44" ov="35" po="28"/>
+			<s ec="38.0793" ed="80.38" he="83.0976" li="70.386" ov="69.9145" po="77.6297"/>
+		</c>
+		 
+		
+		<c id="20" incGroup="High" key="hr" name="Croatia" popGroup="Small" region="Central Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="32" ed="22" he="32" li="34" ov="28" po="34"/>
+			<ur ec="32" ed="23" he="33" li="34" ov="28" po="34"/>
+			<s ec="52.9764" ed="90.4578" he="80.6829" li="74.4456" ov="74.884" po="75.8574"/>
+		</c>
+		 
+		
+		<c id="21" incGroup="Middle" key="cu" name="Cuba" popGroup="Small" region="Caribbean">
+			<groups>
+				<g key="popS"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="72" ed="20" he="29" li="32" ov="50" po="96"/>
+			<ur ec="72" ed="20" he="30" li="32" ov="50" po="96"/>
+			<s ec="37.7251" ed="90.7114" he="83.0976" li="75.7909" ov="63.9602" po="32.4759"/>
+		</c>
+		 
+		
+		<c id="22" incGroup="High" key="cz" name="Czech Republic" popGroup="Small" region="Central Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="37" ed="18" he="26" li="28" ov="25" po="20"/>
+			<ur ec="37" ed="18" he="27" li="28" ov="25" po="20"/>
+			<s ec="50.1115" ed="90.9946" he="85.5122" li="77.1468" ov="77.0885" po="81.6777"/>
+		</c>
+		 
+		
+		<c id="23" incGroup="High" key="dk" name="Denmark" popGroup="Small" region="Northern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="12" ed="21" he="17" li="5" ov="10" po="6"/>
+			<ur ec="12" ed="21" he="20" li="5" ov="10" po="6"/>
+			<s ec="65.0819" ed="90.6815" he="90.3415" li="90.6586" ov="85.8868" po="92.6703"/>
+		</c>
+		 
+		
+		<c id="24" incGroup="Middle" key="do" name="Dominican Republic" popGroup="Small" region="Caribbean">
+			<groups>
+				<g key="popS"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="67" ed="60" he="61" li="65" ov="55" po="49"/>
+			<ur ec="67" ed="60" he="65" li="65" ov="55" po="49"/>
+			<s ec="39.6553" ed="78.5561" he="68.6098" li="63.6781" ov="62.6543" po="62.7723"/>
+		</c>
+		 
+		
+		<c id="25" incGroup="Low" key="ec" name="Ecuador" popGroup="Small" region="South America">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="99" ed="56" he="52" li="69" ov="70" po="66"/>
+			<ur ec="99" ed="56" he="58" li="69" ov="70" po="66"/>
+			<s ec="23.9169" ed="79.6607" he="71.0244" li="62.2891" ov="58.0649" po="53.4333"/>
+		</c>
+		 
+		
+		<c id="26" incGroup="Low" key="eg" name="Egypt" popGroup="Large" region="North Africa">
+			<groups>
+				<g key="popL"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="61" ed="62" he="75" li="66" ov="74" po="83"/>
+			<ur ec="61" ed="62" he="79" li="66" ov="74" po="83"/>
+			<s ec="41.8745" ed="77.9337" he="61.3659" li="63.6194" ov="57.1124" po="40.7687"/>
+		</c>
+		 
+		
+		<c id="27" incGroup="Low" key="sv" name="El Salvador" popGroup="Small" region="Central America">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="82" ed="74" he="73" li="78" ov="72" po="53"/>
+			<ur ec="82" ed="75" he="74" li="78" ov="72" po="53"/>
+			<s ec="33.8093" ed="73.4608" he="63.7805" li="56.6223" ov="57.5053" po="59.8537"/>
+		</c>
+		 
+		
+		<c id="28" incGroup="High" key="ee" name="Estonia" popGroup="Small" region="Northern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="35" ed="7" he="42" li="42" ov="32" po="37"/>
+			<ur ec="35" ed="7" he="46" li="42" ov="32" po="37"/>
+			<s ec="51.2727" ed="93.3205" he="75.8537" li="71.4979" ov="73.0356" po="73.2333"/>
+		</c>
+		 
+		
+		<c id="29" incGroup="Low" key="et" name="Ethiopia" popGroup="Large" region="Africa">
+			<groups>
+				<g key="popL"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="africa"/>
+			</groups>
+			<r ec="83" ed="98" he="89" li="95" ov="94" po="85"/>
+			<ur ec="83" ed="98" he="90" li="95" ov="94" po="85"/>
+			<s ec="33.63" ed="56.1334" he="37.2195" li="40.8582" ov="41.6149" po="40.2333"/>
+		</c>
+		 
+		
+		<c id="30" incGroup="High" key="fi" name="Finland" popGroup="Small" region="Northern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="8" ed="1" he="17" li="4" ov="1" po="5"/>
+			<ur ec="8" ed="1" he="19" li="4" ov="1" po="5"/>
+			<s ec="70.4893" ed="102.0" he="90.3415" li="91.4803" ov="89.396" po="92.674"/>
+		</c>
+		 
+		
+		<c id="31" incGroup="High" key="fr" name="France" popGroup="Large" region="Western Europe">
+			<groups>
+				<g key="popL"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="g7"/>
+				<g key="eu"/>
+				<g key="g20"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="18" ed="14" he="7" li="11" ov="16" po="16"/>
+			<ur ec="18" ed="14" he="15" li="11" ov="16" po="16"/>
+			<s ec="61.5445" ed="91.3524" he="92.7561" li="87.7615" ov="83.2629" po="82.8999"/>
+		</c>
+		 
+		
+		<c id="32" incGroup="High" key="de" name="Germany" popGroup="Large" region="Central Europe">
+			<groups>
+				<g key="popL"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="g7"/>
+				<g key="eu"/>
+				<g key="g20"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="16" ed="16" he="7" li="7" ov="12" po="12"/>
+			<ur ec="16" ed="16" he="14" li="7" ov="12" po="12"/>
+			<s ec="61.8857" ed="91.1288" he="92.7561" li="88.7955" ov="84.8125" po="89.4962"/>
+		</c>
+		 
+		
+		<c id="33" incGroup="Low" key="gh" name="Ghana" popGroup="Medium" region="Africa">
+			<groups>
+				<g key="popM"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="africa"/>
+			</groups>
+			<r ec="87" ed="92" he="89" li="84" ov="86" po="44"/>
+			<ur ec="87" ed="92" he="89" li="84" ov="86" po="44"/>
+			<s ec="31.9902" ed="64.9623" he="37.2195" li="50.01" ov="49.9768" po="65.702"/>
+		</c>
+		 
+		
+		<c id="34" incGroup="High" key="gr" name="Greece" popGroup="Small" region="Southern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="47" ed="39" he="17" li="21" ov="26" po="29"/>
+			<ur ec="47" ed="39" he="18" li="21" ov="26" po="29"/>
+			<s ec="47.4299" ed="85.0904" he="90.3415" li="82.2692" ov="76.5184" po="77.461"/>
+		</c>
+		 
+		
+		<c id="35" incGroup="Low" key="gt" name="Guatemala" popGroup="Small" region="South America">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="77" ed="81" he="75" li="80" ov="84" po="71"/>
+			<ur ec="77" ed="81" he="78" li="80" ov="84" po="71"/>
+			<s ec="36.7532" ed="69.5715" he="61.3659" li="54.0183" ov="54.2966" po="49.774"/>
+		</c>
+		 
+		
+		<c id="36" incGroup="Low" key="hn" name="Honduras" popGroup="Small" region="Central America">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="90" ed="70" he="66" li="79" ov="76" po="62"/>
+			<ur ec="90" ed="70" he="71" li="79" ov="76" po="62"/>
+			<s ec="30.0704" ed="74.4553" he="66.1951" li="56.594" ov="56.4645" po="55.0076"/>
+		</c>
+		 
+		
+		<c id="37" incGroup="High" key="hu" name="Hungary" popGroup="Small" region="Central Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="49" ed="24" he="42" li="33" ov="33" po="32"/>
+			<ur ec="49" ed="24" he="45" li="33" ov="33" po="32"/>
+			<s ec="46.2277" ed="90.2022" he="75.8537" li="75.5361" ov="72.8246" po="76.3036"/>
+		</c>
+		 
+		
+		<c id="38" incGroup="Low" key="in" name="India" popGroup="Large" region="South Asia">
+			<groups>
+				<g key="popL"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="bric"/>
+				<g key="g20"/>
+				<g key="sasia"/>
+			</groups>
+			<r ec="38" ed="88" he="82" li="87" ov="78" po="48"/>
+			<ur ec="38" ed="88" he="83" li="87" ov="78" po="48"/>
+			<s ec="49.9864" ed="66.1975" he="51.7073" li="47.4411" ov="55.6994" po="63.1647"/>
+		</c>
+		 
+		
+		<c id="39" incGroup="Low" key="id" name="Indonesia" popGroup="Large" region="Southeast Asia">
+			<groups>
+				<g key="popL"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="asean"/>
+				<g key="g20"/>
+				<g key="pacasia"/>
+			</groups>
+			<r ec="76" ed="71" he="75" li="82" ov="73" po="52"/>
+			<ur ec="76" ed="71" he="77" li="82" ov="73" po="52"/>
+			<s ec="37.4354" ed="74.3554" he="61.3659" li="52.3378" ov="57.1178" po="60.0944"/>
+		</c>
+		 
+		
+		<c id="40" incGroup="Low" key="ir" name="Iran" popGroup="Large" region="Middle East">
+			<groups>
+				<g key="popL"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="80" ed="55" he="73" li="59" ov="79" po="97"/>
+			<ur ec="80" ed="55" he="73" li="59" ov="79" po="97"/>
+			<s ec="34.8334" ed="80.1702" he="63.7805" li="65.642" ov="55.1208" po="31.1779"/>
+		</c>
+		 
+		
+		<c id="41" incGroup="High" key="ie" name="Ireland" popGroup="Small" region="Northern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="27" ed="8" he="7" li="15" ov="17" po="13"/>
+			<ur ec="27" ed="9" he="13" li="15" ov="17" po="13"/>
+			<s ec="55.6233" ed="92.8434" he="92.7561" li="86.7869" ov="83.1101" po="87.5407"/>
+		</c>
+		 
+		
+		<c id="42" incGroup="High" key="il" name="Israel" popGroup="Small" region="Middle East">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="15" ed="41" he="7" li="25" ov="22" po="27"/>
+			<ur ec="15" ed="41" he="12" li="25" ov="22" po="27"/>
+			<s ec="61.9079" ed="84.1958" he="92.7561" li="78.6284" ov="79.1077" po="78.0501"/>
+		</c>
+		 
+		
+		<c id="43" incGroup="High" key="it" name="Italy" popGroup="Large" region="Southern Europe">
+			<groups>
+				<g key="popL"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="g7"/>
+				<g key="eu"/>
+				<g key="g20"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="44" ed="34" he="3" li="20" ov="23" po="22"/>
+			<ur ec="44" ed="34" he="5" li="20" ov="23" po="22"/>
+			<s ec="48.4651" ed="87.0073" he="95.1707" li="84.0172" ov="78.962" po="80.1499"/>
+		</c>
+		 
+		
+		<c id="44" incGroup="Middle" key="jm" name="Jamaica" popGroup="Small" region="Caribbean">
+			<groups>
+				<g key="popS"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="59" ed="63" he="52" li="62" ov="47" po="45"/>
+			<ur ec="59" ed="63" he="57" li="62" ov="47" po="45"/>
+			<s ec="42.0265" ed="77.7112" he="71.0244" li="64.117" ov="64.0702" po="65.4722"/>
+		</c>
+		 
+		
+		<c id="45" incGroup="High" key="jp" name="Japan" popGroup="Large" region="Pacific Asia">
+			<groups>
+				<g key="popL"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="g7"/>
+				<g key="g20"/>
+				<g key="pacasia"/>
+			</groups>
+			<r ec="10" ed="5" he="1" li="13" ov="9" po="25"/>
+			<ur ec="10" ed="5" he="1" li="13" ov="9" po="25"/>
+			<s ec="69.0427" ed="94.0361" he="100.0" li="87.342" ov="85.989" po="79.5241"/>
+		</c>
+		 
+		
+		<c id="46" incGroup="Low" key="jo" name="Jordan" popGroup="Small" region="Middle East">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="40" ed="44" he="61" li="57" ov="53" po="73"/>
+			<ur ec="40" ed="44" he="64" li="57" ov="53" po="73"/>
+			<s ec="49.2458" ed="81.8699" he="68.6098" li="66.1489" ov="62.9542" po="48.8964"/>
+		</c>
+		 
+		
+		<c id="47" incGroup="Middle" key="kz" name="Kazakhstan" popGroup="Small" region="central Asia">
+			<groups>
+				<g key="popS"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="43" ed="14" he="82" li="45" ov="61" po="81"/>
+			<ur ec="43" ed="15" he="82" li="45" ov="61" po="81"/>
+			<s ec="48.6159" ed="91.3524" he="51.7073" li="70.3425" ov="60.7329" po="41.6462"/>
+		</c>
+		 
+		
+		<c id="48" incGroup="Low" key="ke" name="Kenya" popGroup="Medium" region="Africa">
+			<groups>
+				<g key="popM"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="africa"/>
+			</groups>
+			<r ec="65" ed="73" he="92" li="90" ov="87" po="61"/>
+			<ur ec="65" ed="73" he="93" li="90" ov="87" po="61"/>
+			<s ec="39.8892" ed="73.6873" he="32.3902" li="44.2958" ov="49.2555" po="56.0147"/>
+		</c>
+		 
+		
+		<c id="49" incGroup="High" key="kr" name="Korea, South" popGroup="Medium" region="Pacific Asia">
+			<groups>
+				<g key="popM"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="g20"/>
+				<g key="pacasia"/>
+			</groups>
+			<r ec="3" ed="2" he="23" li="29" ov="15" po="19"/>
+			<ur ec="3" ed="2" he="24" li="29" ov="15" po="19"/>
+			<s ec="73.0227" ed="96.7199" he="87.9268" li="77.0213" ov="83.2822" po="81.7204"/>
+		</c>
+		 
+		
+		<c id="50" incGroup="High" key="kw" name="Kuwait" popGroup="Small" region="Middle East">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="26" ed="74" he="29" li="24" ov="40" po="70"/>
+			<ur ec="26" ed="74" he="29" li="24" ov="40" po="70"/>
+			<s ec="56.7861" ed="73.4608" he="83.0976" li="79.239" ov="68.5937" po="50.3851"/>
+		</c>
+		 
+		
+		<c id="51" incGroup="Middle" key="lv" name="Latvia" popGroup="Small" region="Northern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="53" ed="25" he="52" li="41" ov="36" po="38"/>
+			<ur ec="53" ed="25" he="56" li="41" ov="36" po="38"/>
+			<s ec="43.8555" ed="89.5633" he="71.0244" li="71.6455" ov="69.8514" po="73.1686"/>
+		</c>
+		 
+		
+		<c id="52" incGroup="Middle" key="lt" name="Lithuania" popGroup="Small" region="Northern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="41" ed="28" he="61" li="39" ov="34" po="26"/>
+			<ur ec="41" ed="28" he="63" li="39" ov="34" po="26"/>
+			<s ec="49.1361" ed="89.0663" he="68.6098" li="72.0818" ov="71.4025" po="78.1186"/>
+		</c>
+		 
+		
+		<c id="53" incGroup="High" key="lu" name="Luxembourg" popGroup="Small" region="Western Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="9" ed="29" he="7" li="3" ov="5" po="7"/>
+			<ur ec="9" ed="29" he="11" li="3" ov="5" po="7"/>
+			<s ec="69.758" ed="88.9669" he="92.7561" li="93.3429" ov="87.4507" po="92.4296"/>
+		</c>
+		 
+		
+		<c id="54" incGroup="Low" key="mg" name="Madagascar" popGroup="Medium" region="Africa">
+			<groups>
+				<g key="popM"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="africa"/>
+			</groups>
+			<r ec="78" ed="87" he="87" li="98" ov="90" po="59"/>
+			<ur ec="78" ed="87" he="87" li="98" ov="90" po="59"/>
+			<s ec="35.4386" ed="66.7326" he="42.0488" li="32.9223" ov="46.7781" po="56.748"/>
+		</c>
+		 
+		
+		<c id="55" incGroup="Middle" key="my" name="Malaysia" popGroup="Medium" region="Southeast Asia">
+			<groups>
+				<g key="popM"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="asean"/>
+				<g key="pacasia"/>
+			</groups>
+			<r ec="14" ed="36" he="52" li="48" ov="37" po="54"/>
+			<ur ec="14" ed="36" he="55" li="48" ov="37" po="54"/>
+			<s ec="61.9281" ed="86.4322" he="71.0244" li="69.2828" ov="69.6942" po="59.8036"/>
+		</c>
+		 
+		
+		<c id="56" incGroup="Middle" key="mx" name="Mexico" popGroup="Large" region="North America">
+			<groups>
+				<g key="popL"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="latin"/>
+				<g key="g20"/>
+			</groups>
+			<r ec="60" ed="69" he="34" li="54" ov="45" po="46"/>
+			<ur ec="60" ed="69" he="40" li="54" ov="45" po="46"/>
+			<s ec="41.9543" ed="74.6536" he="78.2683" li="67.6416" ov="65.3536" po="64.25"/>
+		</c>
+		 
+		
+		<c id="57" incGroup="Low" key="ma" name="Morocco" popGroup="Medium" region="North Africa">
+			<groups>
+				<g key="popM"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="48" ed="79" he="66" li="63" ov="67" po="78"/>
+			<ur ec="48" ed="79" he="70" li="63" ov="67" po="78"/>
+			<s ec="46.753" ed="71.0753" he="66.1951" li="63.884" ov="58.4456" po="44.3204"/>
+		</c>
+		 
+		
+		<c id="58" incGroup="Low" key="mz" name="Mozambique" popGroup="Medium" region="Africa">
+			<groups>
+				<g key="popM"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="africa"/>
+			</groups>
+			<r ec="97" ed="96" he="97" li="97" ov="95" po="47"/>
+			<ur ec="97" ed="96" he="99" li="97" ov="95" po="47"/>
+			<s ec="25.1719" ed="58.2931" he="17.9024" li="38.6542" ov="40.7717" po="63.8369"/>
+		</c>
+		 
+		
+		<c id="59" incGroup="High" key="nl" name="Netherlands" popGroup="Small" region="Northern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="17" ed="10" he="7" li="14" ov="8" po="3"/>
+			<ur ec="17" ed="10" he="10" li="14" ov="8" po="3"/>
+			<s ec="61.84" ed="92.6943" he="92.7561" li="87.0721" ov="86.014" po="95.7076"/>
+		</c>
+		 
+		
+		<c id="60" incGroup="High" key="nz" name="New Zealand" popGroup="Small" region="Pacific">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="pacasia"/>
+			</groups>
+			<r ec="25" ed="12" he="7" li="16" ov="13" po="4"/>
+			<ur ec="25" ed="12" he="9" li="16" ov="13" po="4"/>
+			<s ec="56.8351" ed="91.6506" he="92.7561" li="85.7542" ov="84.2266" po="94.137"/>
+		</c>
+		 
+		
+		<c id="61" incGroup="Low" key="ni" name="Nicaragua" popGroup="Small" region="Central America">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="85" ed="82" he="52" li="76" ov="75" po="65"/>
+			<ur ec="85" ed="82" he="54" li="76" ov="75" po="65"/>
+			<s ec="33.303" ed="69.1837" he="71.0244" li="57.1632" ov="56.9689" po="54.1703"/>
+		</c>
+		 
+		
+		<c id="62" incGroup="Low" key="ng" name="Nigeria" popGroup="Large" region="Africa">
+			<groups>
+				<g key="popL"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="africa"/>
+			</groups>
+			<r ec="89" ed="91" he="97" li="93" ov="99" po="90"/>
+			<ur ec="89" ed="91" he="98" li="93" ov="99" po="90"/>
+			<s ec="30.8387" ed="65.5409" he="17.9024" li="41.5214" ov="38.2641" po="35.5168"/>
+		</c>
+		 
+		
+		<c id="63" incGroup="High" key="no" name="Norway" popGroup="Small" region="Northern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="21" ed="33" he="7" li="1" ov="6" po="2"/>
+			<ur ec="21" ed="33" he="8" li="1" ov="6" po="2"/>
+			<s ec="60.1113" ed="87.1351" he="92.7561" li="98.4516" ov="87.3486" po="98.2889"/>
+		</c>
+		 
+		
+		<c id="64" incGroup="High" key="om" name="Oman" popGroup="Small" region="Middle East">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="57" ed="58" he="50" li="46" ov="60" po="82"/>
+			<ur ec="57" ed="58" he="50" li="46" ov="60" po="82"/>
+			<s ec="43.5084" ed="78.8283" he="73.439" li="69.8406" ov="61.2785" po="40.776"/>
+		</c>
+		 
+		
+		<c id="65" incGroup="Low" key="pk" name="Pakistan" popGroup="Large" region="South Asia">
+			<groups>
+				<g key="popL"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="sasia"/>
+			</groups>
+			<r ec="62" ed="86" he="85" li="85" ov="89" po="99"/>
+			<ur ec="62" ed="86" he="85" li="85" ov="89" po="99"/>
+			<s ec="41.5338" ed="66.8759" he="49.2927" li="49.4786" ov="47.0744" po="28.1908"/>
+		</c>
+		 
+		
+		<c id="66" incGroup="Middle" key="pa" name="Panama" popGroup="Small" region="Central America">
+			<groups>
+				<g key="popS"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="51" ed="43" he="34" li="67" ov="41" po="35"/>
+			<ur ec="51" ed="43" he="39" li="67" ov="41" po="35"/>
+			<s ec="44.9346" ed="81.9661" he="78.2683" li="63.0255" ov="68.5452" po="74.5313"/>
+		</c>
+		 
+		
+		<c id="67" incGroup="Low" key="py" name="Paraguay" popGroup="Small" region="South America">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="98" ed="52" he="52" li="72" ov="68" po="63"/>
+			<ur ec="98" ed="52" he="53" li="72" ov="68" po="63"/>
+			<s ec="24.5215" ed="80.5408" he="71.0244" li="60.6721" ov="58.234" po="54.4111"/>
+		</c>
+		 
+		
+		<c id="68" incGroup="Middle" key="pe" name="Peru" popGroup="Medium" region="South America">
+			<groups>
+				<g key="popM"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="50" ed="38" he="34" li="64" ov="42" po="50"/>
+			<ur ec="50" ed="38" he="38" li="64" ov="42" po="51"/>
+			<s ec="46.0521" ed="85.2614" he="78.2683" li="63.7161" ov="67.1459" po="62.4313"/>
+		</c>
+		 
+		
+		<c id="69" incGroup="Low" key="ph" name="Philippines" popGroup="Large" region="Pacific Asia">
+			<groups>
+				<g key="popL"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="asean"/>
+				<g key="pacasia"/>
+			</groups>
+			<r ec="64" ed="46" he="66" li="75" ov="63" po="58"/>
+			<ur ec="64" ed="47" he="69" li="75" ov="63" po="58"/>
+			<s ec="40.105" ed="81.512" he="66.1951" li="57.8688" ov="60.5073" po="56.8556"/>
+		</c>
+		 
+		
+		<c id="70" incGroup="Middle" key="pl" name="Poland" popGroup="Medium" region="Central Europe">
+			<groups>
+				<g key="popM"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="45" ed="17" he="34" li="36" ov="29" po="18"/>
+			<ur ec="45" ed="17" he="37" li="36" ov="29" po="18"/>
+			<s ec="48.3652" ed="91.0542" he="78.2683" li="73.8911" ov="74.6728" po="81.7852"/>
+		</c>
+		 
+		
+		<c id="71" incGroup="High" key="pt" name="Portugal" popGroup="Small" region="Southern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="42" ed="37" he="23" li="27" ov="27" po="23"/>
+			<ur ec="42" ed="37" he="23" li="27" ov="27" po="23"/>
+			<s ec="48.8681" ed="86.2831" he="87.9268" li="78.3798" ov="76.2856" po="79.9702"/>
+		</c>
+		 
+		
+		<c id="72" incGroup="High" key="qa" name="Qatar" popGroup="Small" region="Middle East">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="33" ed="89" he="34" li="31" ov="54" po="84"/>
+			<ur ec="33" ed="89" he="34" li="31" ov="54" po="84"/>
+			<s ec="52.6964" ed="66.1253" he="78.2683" li="76.118" ov="62.699" po="40.2871"/>
+		</c>
+		 
+		
+		<c id="73" incGroup="Middle" key="ro" name="Romania" popGroup="Medium" region="Central Europe">
+			<groups>
+				<g key="popM"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="56" ed="49" he="50" li="38" ov="39" po="36"/>
+			<ur ec="56" ed="49" he="51" li="38" ov="39" po="36"/>
+			<s ec="43.6252" ed="81.2139" he="73.439" li="72.7583" ov="68.9877" po="73.9019"/>
+		</c>
+		 
+		
+		<c id="74" incGroup="Middle" key="ru" name="Russia" popGroup="Large" region="eurAsia">
+			<groups>
+				<g key="popL"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="bric"/>
+				<g key="g20"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="36" ed="31" he="75" li="50" ov="51" po="75"/>
+			<ur ec="36" ed="31" he="76" li="50" ov="51" po="75"/>
+			<s ec="50.9866" ed="88.0297" he="61.3659" li="68.8429" ov="63.2757" po="47.1536"/>
+		</c>
+		 
+		
+		<c id="75" incGroup="High" key="sa" name="Saudi Arabia" popGroup="Medium" region="Middle East">
+			<groups>
+				<g key="popM"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="g20"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="23" ed="65" he="66" li="51" ov="64" po="98"/>
+			<ur ec="23" ed="65" he="67" li="51" ov="64" po="98"/>
+			<s ec="58.7793" ed="76.741" he="66.1951" li="68.4276" ov="59.9112" po="29.413"/>
+		</c>
+		 
+		
+		<c id="76" incGroup="Low" key="sn" name="Senegal" popGroup="Small" region="Africa">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="africa"/>
+			</groups>
+			<r ec="71" ed="93" he="88" li="96" ov="91" po="72"/>
+			<ur ec="71" ed="93" he="88" li="96" ov="91" po="72"/>
+			<s ec="37.9943" ed="63.8001" he="39.6341" li="40.1805" ov="46.1507" po="49.1446"/>
+		</c>
+		 
+		
+		<c id="77" incGroup="High" key="sg" name="Singapore" popGroup="Small" region="Southeast Asia">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="asean"/>
+				<g key="pacasia"/>
+			</groups>
+			<r ec="1" ed="4" he="7" li="23" ov="20" po="67"/>
+			<ur ec="1" ed="4" he="7" li="23" ov="20" po="67"/>
+			<s ec="83.057" ed="95.6017" he="92.7561" li="80.0038" ov="80.9352" po="53.2573"/>
+		</c>
+		 
+		
+		<c id="78" incGroup="High" key="sk" name="Slovakia" popGroup="Small" region="Central Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="52" ed="30" he="34" li="30" ov="31" po="24"/>
+			<ur ec="52" ed="30" he="36" li="30" ov="31" po="24"/>
+			<s ec="44.8191" ed="88.4898" he="78.2683" li="76.5187" ov="73.5851" po="79.8297"/>
+		</c>
+		 
+		
+		<c id="79" incGroup="High" key="si" name="Slovenia" popGroup="Small" region="Central Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="30" ed="27" he="23" li="26" ov="24" po="17"/>
+			<ur ec="30" ed="27" he="25" li="26" ov="24" po="17"/>
+			<s ec="53.8575" ed="89.2651" he="87.9268" li="78.4418" ov="78.3316" po="82.1666"/>
+		</c>
+		 
+		
+		<c id="80" incGroup="Middle" key="za" name="South Africa" popGroup="Medium" region="Africa">
+			<groups>
+				<g key="popM"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="africa"/>
+				<g key="g20"/>
+			</groups>
+			<r ec="22" ed="97" he="92" li="88" ov="82" po="31"/>
+			<ur ec="22" ed="97" he="92" li="88" ov="82" po="31"/>
+			<s ec="59.1724" ed="58.253" he="32.3902" li="46.4509" ov="54.5219" po="76.3427"/>
+		</c>
+		 
+		
+		<c id="81" incGroup="High" key="es" name="Spain" popGroup="Medium" region="Southern Europe">
+			<groups>
+				<g key="popM"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="19" ed="32" he="3" li="22" ov="21" po="21"/>
+			<ur ec="19" ed="32" he="4" li="22" ov="21" po="21"/>
+			<s ec="60.6893" ed="87.7741" he="95.1707" li="80.0811" ov="80.883" po="80.6999"/>
+		</c>
+		 
+		
+		<c id="82" incGroup="Low" key="lk" name="Sri Lanka" popGroup="Medium" region="South Asia">
+			<groups>
+				<g key="popM"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="sasia"/>
+			</groups>
+			<r ec="69" ed="66" he="61" li="73" ov="66" po="69"/>
+			<ur ec="69" ed="66" he="62" li="73" ov="66" po="69"/>
+			<s ec="38.2254" ed="75.5137" he="68.6098" li="59.1842" ov="58.8007" po="52.4702"/>
+		</c>
+		 
+		
+		<c id="83" incGroup="High" key="se" name="Sweden" popGroup="Small" region="Northern Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="eu"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="5" ed="19" he="3" li="8" ov="3" po="1"/>
+			<ur ec="5" ed="19" he="3" li="8" ov="3" po="1"/>
+			<s ec="71.5193" ed="90.756" he="95.1707" li="88.6475" ov="88.9254" po="98.5333"/>
+		</c>
+		 
+		
+		<c id="84" incGroup="High" key="ch" name="Switzerland" popGroup="Small" region="Western Europe">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="7" ed="6" he="2" li="2" ov="2" po="11"/>
+			<ur ec="7" ed="6" he="2" li="2" ov="2" po="11"/>
+			<s ec="71.3566" ed="93.738" he="97.5854" li="94.1543" ov="89.315" po="89.7407"/>
+		</c>
+		 
+		
+		<c id="85" incGroup="Low" key="sy" name="Syria" popGroup="Medium" region="Middle East">
+			<groups>
+				<g key="popM"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="91" ed="46" he="61" li="56" ov="83" po="100"/>
+			<ur ec="91" ed="46" he="61" li="56" ov="83" po="100"/>
+			<s ec="29.7098" ed="81.512" he="68.6098" li="66.2809" ov="54.3503" po="25.6388"/>
+		</c>
+		 
+		
+		<c id="86" incGroup="Low" key="tz" name="Tanzania" popGroup="Medium" region="Africa">
+			<groups>
+				<g key="popM"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="africa"/>
+			</groups>
+			<r ec="93" ed="94" he="94" li="94" ov="93" po="55"/>
+			<ur ec="93" ed="94" he="94" li="94" ov="93" po="55"/>
+			<s ec="27.6154" ed="62.2942" he="25.1463" li="41.457" ov="43.0555" po="58.7647"/>
+		</c>
+		 
+		
+		<c id="87" incGroup="Low" key="th" name="Thailand" popGroup="Large" region="Southeast Asia">
+			<groups>
+				<g key="popL"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="asean"/>
+				<g key="pacasia"/>
+			</groups>
+			<r ec="39" ed="57" he="66" li="55" ov="58" po="74"/>
+			<ur ec="39" ed="57" he="68" li="55" ov="58" po="74"/>
+			<s ec="49.4783" ed="79.2756" he="66.1951" li="67.1553" ov="62.1694" po="48.7424"/>
+		</c>
+		 
+		
+		<c id="88" incGroup="Low" key="tn" name="Tunisia" popGroup="Small" region="Middle East">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="58" ed="77" he="42" li="60" ov="65" po="88"/>
+			<ur ec="58" ed="77" he="44" li="60" ov="65" po="88"/>
+			<s ec="42.6252" ed="72.3107" he="75.8537" li="64.7892" ov="58.895" po="38.8962"/>
+		</c>
+		 
+		
+		<c id="89" incGroup="Middle" key="tr" name="Turkey" popGroup="Large" region="Southern Europe">
+			<groups>
+				<g key="popL"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="g20"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="68" ed="53" he="42" li="58" ov="52" po="64"/>
+			<ur ec="68" ed="53" he="43" li="58" ov="52" po="64"/>
+			<s ec="39.6282" ed="80.3938" he="75.8537" li="66.1416" ov="63.2583" po="54.2742"/>
+		</c>
+		 
+		
+		<c id="90" incGroup="Low" key="ug" name="Uganda" popGroup="Medium" region="Africa">
+			<groups>
+				<g key="popM"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="africa"/>
+			</groups>
+			<r ec="92" ed="84" he="97" li="89" ov="96" po="80"/>
+			<ur ec="92" ed="84" he="97" li="89" ov="96" po="80"/>
+			<s ec="29.4982" ed="68.1897" he="17.9024" li="45.7503" ov="40.67" po="42.0092"/>
+		</c>
+		 
+		
+		<c id="91" incGroup="Low" key="ua" name="Ukraine" popGroup="Medium" region="eastern europe">
+			<groups>
+				<g key="popM"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="66" ed="40" he="75" li="40" ov="49" po="50"/>
+			<ur ec="66" ed="40" he="75" li="40" ov="49" po="50"/>
+			<s ec="39.787" ed="84.6431" he="61.3659" li="71.6471" ov="63.9749" po="62.4313"/>
+		</c>
+		 
+		
+		<c id="92" incGroup="High" key="ae" name="United Arab Emirates" popGroup="Small" region="Middle East">
+			<groups>
+				<g key="popS"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="28" ed="72" he="32" li="18" ov="43" po="87"/>
+			<ur ec="28" ed="72" he="32" li="18" ov="43" po="87"/>
+			<s ec="55.5752" ed="73.9713" he="80.6829" li="84.9109" ov="66.8907" po="39.313"/>
+		</c>
+		 
+		
+		<c id="93" incGroup="High" key="gb" name="United Kingdom" popGroup="Large" region="Northern Europe">
+			<groups>
+				<g key="popL"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="g7"/>
+				<g key="eu"/>
+				<g key="g20"/>
+				<g key="centasia"/>
+			</groups>
+			<r ec="4" ed="8" he="17" li="19" ov="14" po="33"/>
+			<ur ec="4" ed="8" he="17" li="19" ov="14" po="33"/>
+			<s ec="72.9428" ed="92.8434" he="90.3415" li="84.7077" ov="83.3515" po="75.9222"/>
+		</c>
+		 
+		
+		<c id="94" incGroup="High" key="us" name="United States" popGroup="Large" region="North America">
+			<groups>
+				<g key="popL"/>
+				<g key="incH"/>
+				<g key="world"/>
+				<g key="g7"/>
+				<g key="g20"/>
+			</groups>
+			<r ec="2" ed="26" he="26" li="9" ov="11" po="14"/>
+			<ur ec="2" ed="26" he="26" li="9" ov="11" po="14"/>
+			<s ec="77.8452" ed="89.4355" he="85.5122" li="88.5849" ov="85.5119" po="86.1816"/>
+		</c>
+		 
+		
+		<c id="95" incGroup="Middle" key="uy" name="Uruguay" popGroup="Small" region="South America">
+			<groups>
+				<g key="popS"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="84" ed="58" he="34" li="43" ov="44" po="40"/>
+			<ur ec="84" ed="59" he="35" li="43" ov="44" po="40"/>
+			<s ec="33.6074" ed="78.8283" he="78.2683" li="70.8971" ov="66.8691" po="72.7444"/>
+		</c>
+		 
+		
+		<c id="96" incGroup="Middle" key="ve" name="Venezuela" popGroup="Medium" region="South America">
+			<groups>
+				<g key="popM"/>
+				<g key="incM"/>
+				<g key="world"/>
+				<g key="latin"/>
+			</groups>
+			<r ec="100" ed="48" he="42" li="61" ov="71" po="77"/>
+			<ur ec="100" ed="48" he="42" li="61" ov="71" po="77"/>
+			<s ec="21.6643" ed="81.2869" he="75.8537" li="64.3049" ov="57.9916" po="46.848"/>
+		</c>
+		 
+		
+		<c id="97" incGroup="Low" key="vn" name="Vietnam" popGroup="Large" region="Southeast Asia">
+			<groups>
+				<g key="popL"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="asean"/>
+				<g key="pacasia"/>
+			</groups>
+			<r ec="79" ed="64" he="52" li="74" ov="81" po="95"/>
+			<ur ec="79" ed="64" he="52" li="74" ov="81" po="95"/>
+			<s ec="35.0139" ed="77.1392" he="71.0244" li="58.6788" ov="54.8801" po="32.5443"/>
+		</c>
+		 
+		
+		<c id="98" incGroup="Low" key="ye" name="Yemen" popGroup="Medium" region="Middle East">
+			<groups>
+				<g key="popM"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="mideast"/>
+			</groups>
+			<r ec="73" ed="99" he="86" li="91" ov="92" po="89"/>
+			<ur ec="73" ed="99" he="86" li="91" ov="92" po="89"/>
+			<s ec="37.6418" ed="53.7801" he="46.878" li="43.9007" ov="44.1668" po="38.6334"/>
+		</c>
+		 
+		
+		<c id="99" incGroup="Low" key="zm" name="Zambia" popGroup="Small" region="Africa">
+			<groups>
+				<g key="popS"/>
+				<g key="incL"/>
+				<g key="world"/>
+				<g key="africa"/>
+			</groups>
+			<r ec="74" ed="85" he="100" li="99" ov="97" po="68"/>
+			<ur ec="74" ed="85" he="100" li="99" ov="97" po="68"/>
+			<s ec="37.5148" ed="67.8404" he="13.0732" li="31.2595" ov="40.4998" po="52.8112"/>
+		</c>
+	
+</worldsbest>
