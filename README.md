@@ -2,8 +2,6 @@
 ===
 
 
-## 3D rendering Web
-
 Parse data from XML file to 3D rendering via p5.js
 
 
